@@ -1,0 +1,20 @@
+## Index of source code examples:
+
+\C#
+\VB.NET
+\C#\Auto Redact Text From PDF By Keywords
+\C#\Black out PII Data From PDF
+\C#\Check For Sensitive Data and PII in PDF
+\C#\PDF Data Remover Tool
+\C#\Remove PII Data From PDF
+\C#\Remove Sensitive Data From Region
+\C#\Remove Sensitive Data From Scanned Document
+\C#\Remove Sensitive Text Using Regex Expressions
+\C#\PDF Data Remover Tool\C#
+\VB.NET\Auto Redact Text From PDF By Keywords
+\VB.NET\Black out PII Data From PDF
+\VB.NET\Check For Sensitive Data and PII in PDF
+\VB.NET\Remove PII Data From PDF
+\VB.NET\Remove Sensitive Data From Region
+\VB.NET\Remove Sensitive Data From Scanned Document
+\VB.NET\Remove Sensitive Text Using Regex Expressions
