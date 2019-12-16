@@ -7,6 +7,7 @@
 \C#\Check For Sensitive Data and PII in PDF
 \C#\PDF Data Remover Tool
 \C#\Remove PII Data From PDF
+\C#\Remove Sensitive Data From Image
 \C#\Remove Sensitive Data From Region
 \C#\Remove Sensitive Data From Scanned Document
 \C#\Remove Sensitive Text Using Regex Expressions
@@ -15,6 +16,7 @@
 \VB.NET\Black out PII Data From PDF
 \VB.NET\Check For Sensitive Data and PII in PDF
 \VB.NET\Remove PII Data From PDF
+\VB.NET\Remove Sensitive Data From Image
 \VB.NET\Remove Sensitive Data From Region
 \VB.NET\Remove Sensitive Data From Scanned Document
 \VB.NET\Remove Sensitive Text Using Regex Expressions
